@@ -4,6 +4,8 @@ author: lehai
 date: 2024-01-08 14:10:00 +0800
 categories: [web]
 tags: [web,ctf,write-up]
+image:
+  path: /assets/img/favicons/cookiearena.png
 ---
 
 ## Remote File Inclusion

@@ -4,6 +4,8 @@ author: lehai
 date: 2023-12-12 14:10:00 +0800
 categories: [web]
 tags: [web,ctf,write-up]
+image:
+  path: /assets/img/favicons/cookiearena.png
 ---
 
 ## Logger Middleware

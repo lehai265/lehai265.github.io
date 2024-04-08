@@ -4,6 +4,8 @@ author: lehai
 date: 2023-12-10 14:10:00 +0800
 categories: [web,ctf]
 tags: [web,ctf,write-up]
+image:
+  path: /assets/img/favicons/cookiearena.png
 ---
 
 [Address challenge](https://battle.cookiearena.org/challenges/web/command-limit-length)
